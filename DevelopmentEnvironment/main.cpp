@@ -7,7 +7,7 @@
 #include <glm/mat4x4.hpp>
 #include <iostream>
 
-int main() {
+int main_main() {
     glfwInit();
 
     glfwWindowHint(GLFW_CLIENT_API, GLFW_NO_API);
