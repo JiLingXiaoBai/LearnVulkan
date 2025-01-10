@@ -220,6 +220,13 @@
     </ClCompile>
     <ClCompile Include="DrawingATriangle\HelloTriangleApplication.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="DrawingATriangle\complie.bat" />
+    <Content Include="DrawingATriangle\frag.spv" />
+    <Content Include="DrawingATriangle\shaderFragment.frag" />
+    <Content Include="DrawingATriangle\shaderVertex.vert" />
+    <Content Include="DrawingATriangle\vert.spv" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
