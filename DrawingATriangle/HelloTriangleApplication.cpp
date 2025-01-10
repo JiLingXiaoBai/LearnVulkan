@@ -585,8 +585,8 @@ private:
 
     void createGraphicsPipeline()
     {
-        auto vertShaderCode = readFile("vert.spv");
-        auto fragShaderCode = readFile("frag.spv");
+        auto vertShaderCode = readFile("DrawingATriangle/vert.spv");
+        auto fragShaderCode = readFile("DrawingATriangle/frag.spv");
     }
 
     static std::vector<char> readFile(const std::string& filename)
