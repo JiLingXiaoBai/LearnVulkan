@@ -227,7 +227,6 @@
     <Content Include="DrawingATriangle\shaderVertex.vert" />
     <Content Include="DrawingATriangle\texture.jpg" />
     <Content Include="DrawingATriangle\vert.spv" />
-    <Content Include="DrawingATriangle\viking_room.obj" />
     <Content Include="DrawingATriangle\viking_room.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
